@@ -9,4 +9,4 @@ Get ready, get set, go! :running_woman:	:runner:
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
 
-JavaScript Syntax: Conditionals - learning how to use if, else if, switch and ternary syntax to control the flow of a JavaScript program.
+JavaScript Syntax, Part I: Conditionals - learning how to use if, else if, switch and ternary syntax to control the flow of a JavaScript program.
